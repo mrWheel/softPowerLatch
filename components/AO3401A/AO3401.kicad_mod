@@ -1,0 +1,279 @@
+(footprint "AO3401"
+		(layer "F.Cu")
+		(uuid "5b4b5439-b4bc-41e4-a7d8-0b5061ef4fd4")
+		(at 177.1 62.6 90)
+		(property "Reference" "Q102"
+			(at 0 -3 180)
+			(layer "F.SilkS")
+			(uuid "72b2ecdf-f716-4963-904f-47a987fceee8")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "AO3401A"
+			(at 2.2 0.2 180)
+			(layer "F.SilkS")
+			(uuid "7024256b-54c2-495f-9309-08a2f7faf18d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+					(bold yes)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c44ffde-a333-43de-a16f-eb37bbebb847")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53a778d2-5ab0-4f36-8105-fee7123268b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Alpha & Omega Semiconductor"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd573866-152d-40e0-b64f-45c323bbc2f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description_1" "P-Channel 30 V 4A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f19d58b0-c091-4a61-9cc6-0e397a573092")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbc1a784-c882-42fd-b4c4-398b8b596a72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Price" "None"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "983bc1ed-12a1-44a1-bfd9-01b92639d5a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=snap"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4239f14d-dc40-4c63-849e-de23f270b8ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "AO3401A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a4098be-1aa6-4ad5-bf2e-8271d248ee57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4711cb58-7072-4d20-96b2-9886acab176e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/AO3401A/Alpha/view-part/?ref=eda"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c75ba73c-7f52-487e-a975-aa33439e29ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/5b6c7324-2db1-43b5-b499-95efd875ae2b")
+		(sheetname "/")
+		(sheetfile "softPowerLatch.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -0.7 -1.4)
+			(end 0.1 -1.4)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e1111ac1-51ed-4cc1-b67e-6ae6bbbecb32")
+		)
+		(fp_line
+			(start -0.7 -0.8)
+			(end -0.7 -1.4)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8178ff24-e135-4ee0-adce-f8f5e7faa310")
+		)
+		(fp_line
+			(start -0.7 0.8)
+			(end -0.7 1.4)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0e8af46f-7a08-4c54-84dd-8924fe0ab81e")
+		)
+		(fp_line
+			(start -0.7 1.4)
+			(end 0.1 1.4)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "5d60f18d-0d0e-492f-95f5-a51b0e15b4b2")
+		)
+		(fp_line
+			(start 0.6604 -1.4224)
+			(end 0.6604 1.4224)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "57a42d95-dcf8-4c76-8733-f2820fef87f4")
+		)
+		(fp_line
+			(start -0.6604 -1.4224)
+			(end 0.6604 -1.4224)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "de269893-c530-47e9-9ebf-f62e6aab0d06")
+		)
+		(fp_line
+			(start 0.6604 1.4224)
+			(end -0.6604 1.4224)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "648f858b-0674-410a-b966-b4ea32bad759")
+		)
+		(fp_line
+			(start -0.6604 1.4224)
+			(end -0.6604 -1.4224)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "aecc098b-290b-4466-8759-a1c9c412c49c")
+		)
+		(pad "1" smd rect
+			(at 1 0.95 90)
+			(size 0.9 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 6 "Net-(J101-Pin_2)")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "42386fe8-0ccc-4744-8bc2-5377b7efffaa")
+		)
+		(pad "2" smd rect
+			(at 1 -0.95 90)
+			(size 0.9 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 5 "ACCU+")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "3ea3d43e-4425-4af8-b0fe-70baecbf894a")
+		)
+		(pad "3" smd rect
+			(at -1.1 0 90)
+			(size 0.9 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 11 "PWR-SWITCHED")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "25d170d9-7c59-483c-99b4-34e234581dcd")
+		)
+		(embedded_fonts no)
+		(model "${MYNEWLIBRARY}/packages3D/AO3401/AO3401A.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
+	)
