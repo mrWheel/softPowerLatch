@@ -1,7 +1,7 @@
 # Soft Power Latch
 ## Disclaimer
 
-This software is developed incrementally. That means I have no clear idea how it works (though it mostly does).
+This hardware is developed incrementally. That means I have no clear idea how it works (though it mostly does).
 
 If you have questions about this software, it will probably take you just as long to figure things out as it would take me. So I’d prefer that you investigate it yourself.
 
